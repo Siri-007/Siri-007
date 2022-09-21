@@ -1,1 +1,1 @@
-Hello, My Name is Siri
+Learning: Command line, Git, HTML,CSS, Javascript, Python
